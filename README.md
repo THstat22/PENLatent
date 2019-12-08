@@ -1,4 +1,4 @@
-# PENLatent
+# PENLatent (An R package)
 
 Input for PENLatent: a penalized structural equation modeling to incorporate multiple secondary phenotypes, case-control status and gene expression variables.
 
