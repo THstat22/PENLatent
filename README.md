@@ -27,7 +27,7 @@ Modify the parameters in the PENLatent.R, and execute it.
 Example
 Please find it in the R package.
 
-Future extensions
+
 Contact
 
 Ting-huei Chen, ting-huei.chen@mat.ulaval.ca
